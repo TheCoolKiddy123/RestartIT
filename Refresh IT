@@ -1,0 +1,18 @@
+/Restart
+makes sure your server is up to date and makes sure there will be no lag
+
+/Restart (How much time)
+Ex: Every 6min, your server refreshes automatically
+
+/Perm-Restart (Username)
+Gives a player permission to restart the server anytime!
+
+/Bubble (username)
+A robot sends you a message sayig when to refresh server.
+
+/Del-Restart 
+deletes all the time you wanted butdont need anymore. (No more automatic refreshing!)
+
+
+
+
